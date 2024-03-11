@@ -1,0 +1,15 @@
+.custom-list-item:hover {
+    background-color: #e8e8e8;
+    color: #000000;
+}
+/* In your component's CSS or in a separate CSS file */
+.file-info {
+    display: flex;
+    align-items: center; /* Align items vertically in the center */
+}
+
+/* Add some spacing between the <a> and <Button> elements */
+.file-info a {
+    margin-right: 10px;
+}
+
